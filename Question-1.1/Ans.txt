@@ -1,5 +1,0 @@
---->> JavaScript operators are fundamental building blocks of the language, allowing developers to perform various operations on values. From basic arithmetic calculations to 
-      complex logical evaluations, JavaScript operators provide the necessary tools to manipulate data and control program flow.
-
---->> Operators are essential for performing computations, making decisions, and manipulating data in programming. They enable us to perform mathematical calculations,
-      concatenate strings, compare values, control program flow, and handle complex operations.
