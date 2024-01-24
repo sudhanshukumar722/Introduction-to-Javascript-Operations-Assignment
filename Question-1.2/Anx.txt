@@ -1,0 +1,11 @@
+HTML-->>>
+          1.> HTML defines the content and structure of a web page.
+          2.> HTML (Hypertext Markup Language) is a markup language used for creating static web pages.
+          3.> HTML documents are static and do not change unless modified by a developer.
+          4.> HTML runs on the client side.
+         
+Javascript-->>>
+             1.> JavaScript allows for manipulation of the content and the behavior of the page.  
+             2.> JavaScript is a programming language used for creating interactive and dynamic web pages.
+             3.> JavaScript can update and change the content of an HTML document dynamically.
+             4.> JavaScript can run on both the client and server side.
