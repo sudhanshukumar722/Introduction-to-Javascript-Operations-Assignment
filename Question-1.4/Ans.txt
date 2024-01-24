@@ -1,0 +1,5 @@
+ -->> Declaring variables is one of the fundamental concepts in JavaScript. Variables are used to store and manage data in your programs. To declare a variable means to create 
+      a named placeholder for data that you want to use later.
+
+ -->> Just like var in Javascript, let keyword is also used for variable declaration. But the only difference is the variable declared with the “let” keyword is block-scoped 
+     and local variable. A variable declared with let will be out of scope outside the block within which it has been declared.
