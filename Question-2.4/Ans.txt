@@ -1,0 +1,11 @@
+--->>> Operator precedence and associativity specify the order in which operations are performed in a complex expression, but they do not specify the order in which the 
+       subexpressions are evaluated. JavaScript always evaluates expressions in strictly left-to-right order.
+
+--->>> The associativity represents which operator has to solve first while going from left to right if two or more operators have the same precedence in the expression.
+     Example:
+         2 + 3 * 4 / 3 =  2 + (3 * 4) / 3  // 6
+      The precedence of the multiply(*) and divide(/) operators is the same but due to associativity from left to right the multiply operator will be resolved first as it 
+      comes first when we go from left to right and hence the result will be 6.
+
+
+       
