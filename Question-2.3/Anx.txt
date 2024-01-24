@@ -1,0 +1,20 @@
+-->> In Javascript, unary, binary, and ternary operators are used to perform operations on one, two, and three operands respectively.
+
+   1.> Unary Operators:-
+              Unary operators work on a single operand.
+              Example: the unary minus (-) operator changes the sign of its operand. For example, if x is 5, then -x will be -5.
+                  int x = 5; 
+                  int result = -x; // result will be -5 
+                  
+   2.> Binary Operators:-
+              Binary operators work on two operands.
+              Example: In javascript, the addition (+) operator adds two operands. For example, if a is 3 and b is 4, then a + b will result in 7.
+                  int a = 3, b = 4; 
+                  int result = a + b; // result will be 7 
+                  
+   3.> Ternary Operators:-  
+            The only ternary operator in javascript is the conditional operator (?:), which works on three operands.
+            Example: It is used for conditional expressions. For example, consider the expression (x > 5) ? "Greater" : "Lesser", here if x is greater than 5, it will return 
+                     "Greater", otherwise "Lesser".
+               int x = 6; 
+               string result = (x > 5) ? "Greater" : "Lesser"; // result will be "Greater" 
