@@ -1,0 +1,6 @@
+Javascript comment-->> 
+                      JavaScript Comments are used to prevent code execution and are considered suitable for testing the code.
+
+  Single line comment-->> In this we can simply use // befor the statement.
+
+  Multiple line comment-->> In this we wrap statment wihtin this /*.....*/.
